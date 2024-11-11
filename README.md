@@ -7,7 +7,7 @@ I'm Muhammed Šehić, a first-year student at the Faculty of Electrical Engineer
 - 🔭 Currently exploring the realms of programming, video editing, Photoshop, and game development alongside my academic journey.
 - 🌱 Always learning and refining skills to stay ahead in the tech world.
 - 💬 Passionate about movies, American TV series, and nostalgic Yugoslav music.
-- 📫 How to reach me: Visit my [contact page](sehic.rf.gd#contact) for more details or via the links provided below.
+- 📫 How to reach me: Visit my [contact page](https://sehic.rf.gd#contact?referral=github) for more details or via the links provided below.
 - ⚡ Fun fact: Around the time when I was born, [this single](https://youtu.be/4XvoXmcmVyQ) was popular, which is ironic because I was born in it.
 
 ### About Me
@@ -19,7 +19,7 @@ I'm driven by curiosity and a love for technology, with a knack for solving prob
 If you're interested in collaborating on projects or just want to chat about tech, feel free to reach out via the links provided below.
 
 ### Social
-- 🔗 [Website](https://sehic.rf.gd/)
+- 🔗 [Website](https://sehic.rf.gd/?referral=github)
 - 📧 [Email](mailto:sehicmuhammed7@proton.me)
 - 📷 [Instagram](https://www.instagram.com/m.shc28/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhammed-šehić-31a7b6175/)
