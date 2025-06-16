@@ -19,7 +19,7 @@ I'm driven by curiosity and a love for technology, with a knack for solving prob
 If you're interested in collaborating on projects or just want to chat about tech, feel free to reach out via the links provided below.
 
 ### Social
-- 🔗 [Website](https://muxbh28.github.io/)
+- 🔗 [Website](https://msehic.com/)
 - 📧 [Email](mailto:sehicmuhammed7@proton.me)
 - 📷 [Instagram](https://www.instagram.com/m.shc28/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhammed-šehić-31a7b6175/)
