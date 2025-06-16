@@ -7,7 +7,7 @@ I'm Muhammed Šehić, a first-year student at the Faculty of Electrical Engineer
 - 🔭 Currently exploring the realms of programming, video editing, Photoshop, and game development alongside my academic journey.
 - 🌱 Always learning and refining skills to stay ahead in the tech world.
 - 💬 Passionate about movies, American TV series, and nostalgic Yugoslav music.
-- 📫 How to reach me: Visit my [contact page](https://muxbh28.github.io/) for more details or via the links provided below.
+- 📫 How to reach me: Visit my [contact page](https://msehic.com/contact) for more details or via the links provided below.
 - ⚡ Fun fact: Around the time when I was born, [this single](https://youtu.be/4XvoXmcmVyQ) was popular, which is ironic because I was born in it.
 
 ### About Me
