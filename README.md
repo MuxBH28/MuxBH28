@@ -61,10 +61,12 @@ NAME
        fun_fact - a random fact about me
 
 SYNOPSIS
-       Around the time when I was born, <a href="https://youtu.be/4XvoXmcmVyQ">this single</a> was popular, which is ironic because I was born in the same type of vehicle.
+       Around the time when I was born, <a href="https://youtu.be/4XvoXmcmVyQ">this single</a> was popular, 
+       which is ironic because I was born in the same type of vehicle.
 
 mux@msehic:~$ ./connect_with_me.sh
-If you're interested in collaborating on projects or just want to chat about tech, feel free to reach out via the links provided above.
+If you're interested in collaborating on projects or just want to chat about tech, 
+feel free to reach out via the links provided above.
 
 Let's connect and build something awesome together!
 
