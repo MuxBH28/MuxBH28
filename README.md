@@ -23,7 +23,7 @@ mux@msehic:~$ neofetch
      :::            :::           |      ----------
    ::  ::          ::  ::         |      OS: Arch Linux x86_64
   :     ::        ::     :        |      Kernel: 2003-taxi
- :    .. ::      :: :.    :       |      Uptime: 21 years (Since 2003.)
+ :    .. ::      :: :.    :       |      Uptime: 22 years (Since 2003.)
 ::    .:  ::    ::  :.    ::      |      Shell: 7.92×57mm
 :     .:   .: .:.   :.     :      |      Host: Bosnia&Herzegovina
 :     .:     ::     :.     :      |      Browser: Floorp
